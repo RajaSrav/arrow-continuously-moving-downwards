@@ -29,7 +29,7 @@
 }
 h1{
 	text-align: center;
-	color:#fff;
+	color:#2df;
 	text-shadow:3px 3px 3px #000;
 }
 h2{
@@ -156,11 +156,11 @@ section{
 	 background: #25930D;
 }
 .back1>h2{
-	background: #EF84A0;
+	background: #90EE90;
 }
 .front2>h2{
 	 background: #E9630B;
 }
 .back2>h2{
-	background: #EF84A0;
+	background: #FF99CC;
 }
