@@ -28,8 +28,16 @@
 	width:100%;
 }
 h1{
+	
 	text-align: center;
-	color:#0000FF;
+	color:#fff;
+	text-shadow:3px 3px 3px #000;
+}
+section>h1{
+	font-size: 33px;
+	text-align: center;
+	/* color:#fff; */
+	color: #0000ff;
 	text-shadow:3px 3px 3px #000;
 }
 h2{
